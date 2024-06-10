@@ -4,11 +4,6 @@
 
 This Project is a preporatory site build in ourder to get us ready for our full time coding bootcamp lessons! It covers some basic topics which start as the base for our courseload and give us the means to create functional wepages such as these. I built this webpage as practice purposes to get me used to using different coding languages such as HTML, CSS, JavaScript as well how to upload them onto public repositories such as Github which we will be using thoughout this course to share codes and projects. This will also serve as referance material to look back on when working with these topics again in the future. 
 
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
 ## Installation
 
 N/A
